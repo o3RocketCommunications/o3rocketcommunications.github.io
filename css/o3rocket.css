@@ -1,4 +1,25 @@
 
+
+
+.jumbotron {
+  padding: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #FF9F56;
+}
+.jumbotron h1,
+.jumbotron .h1 {
+  color: inherit;
+}
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+    color: #ffffff;
+}
+
+/*space*/
+
 .spacer {
     padding-top: 35px;
 }

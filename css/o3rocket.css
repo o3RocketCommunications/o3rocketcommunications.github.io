@@ -1,13 +1,12 @@
 
 
-
 .jumbotron {
   padding: 30px;
   margin-bottom: 30px;
   color: inherit;
   background-color: #F0E4C2;
 }
-.jumbotron h1,
+/*.jumbotron h1,*/
 .jumbotron .h1 {
   color: inherit;
 }
@@ -16,6 +15,46 @@
     font-size: 21px;
     font-weight: 200;
     color: #ffffff;
+}
+
+#intro {
+    background:#FFFFB9 ;
+    border-radius:20px;
+}
+
+.detail_button{
+    float: left;
+    padding-left: 30px;
+    /*padding-top: 30px;*/
+}
+
+.detail_button_2 {
+    float: left;
+    margin-left: center;
+    padding-top: 55px;
+}
+
+.detail_button_3 {
+    float: left;
+    padding-left: 30px;
+    padding-top: 78px;
+}
+
+#services_1 {
+    background:#FAD9D7;
+    padding:20px;
+    border-radius:20px;
+}
+
+#social_media_1 {
+    background:#F8D5FD;
+    border-radius:20px;
+}
+
+#people_1 {
+    background:#CDF7FA;
+    padding: 20px;
+    border-radius:20px;
 }
 
 /*space*/

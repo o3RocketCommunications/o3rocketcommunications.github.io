@@ -31,7 +31,8 @@ ul.white_text{
 }
 
 #intro {
-    background:#caeaff;
+/*    background:#caeaff; */
+    background: #FFFFFF
     border-radius:10px;
 }
 

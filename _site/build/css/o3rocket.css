@@ -1,0 +1,175 @@
+/*div {*/
+    /*margin-left: 0px !important;*/
+    /*margin-right: 0px !important;*/
+/*}*/
+
+.jumbotron {
+  padding: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #F0E4C2;
+}
+/*.jumbotron h1,*/
+.jumbotron .h1 {
+  color: inherit;
+}
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+    color: #ffffff;
+}
+
+#intro {
+    background:#FFFFB9 ;
+    border-radius:20px;
+}
+
+.detail_button{
+    float: left;
+    padding-left: 30px;
+    /*padding-top: 30px;*/
+}
+
+.detail_button_2 {
+    float: left;
+    padding-top: 55px;
+}
+
+.detail_button_3 {
+    float: left;
+    padding-left: 30px;
+    padding-top: 78px;
+}
+
+#services_1 {
+    background:#FAD9D7;
+    padding:20px;
+    border-radius:20px;
+}
+
+#social_media_1 {
+    background:#F8D5FD;
+    border-radius:20px;
+}
+
+#people_1 {
+    background:#CDF7FA;
+    padding: 20px;
+    border-radius:20px;
+}
+
+/*space*/
+
+.spacer {
+    padding-top: 35px;
+}
+
+ .carousel-caption {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 10px 15px 5px;
+  background: rgba(0, 0, 0, 0.75);
+  z-index: 10;
+  text-align: left;
+ }
+
+ .carousel-caption p {
+     margin: 0 0 0 0;
+ }
+
+
+body {
+    font-size: 16px;
+}
+
+footer {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 75%
+}
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+.posts li {
+  line-height: 1.75em;
+}
+
+.posts span {
+  color: #aaa;
+  font-size: 80%;
+}
+
+.post img {
+  padding: 5px;
+ }
+.meta {
+    font-size: 80%;
+}
+
+.meta span.author,
+.meta span.date {
+    font-style: italic;
+}
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+
+/* standard */
+.post pre {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .4em;
+}
+
+.post ul, .post ol {
+  margin-left: 1.35em;
+}
+
+.post code {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .2em;
+}
+
+.post pre code {
+  border: none;
+}
+
+/* terminal */
+.post pre.terminal {
+  border: 1px solid #000;
+  background-color: #333;
+  color: #FFF;
+}
+
+.post pre.terminal code {
+  background-color: #333;
+}
+
+.textbottom {
+    vertical-align:text-bottom;
+}
+ul.posts {
+    margin: 0;
+    padding: 0;
+}
+
+div.excerpt {
+    margin: 0 0 3em 4em;
+}
+.excerpt p {
+    clear: both;
+}

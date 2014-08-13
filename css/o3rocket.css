@@ -1,25 +1,38 @@
 
 
+#blue_header {
+    background-color: #015CBE;
+}
+
+#o3rocket-navbar-collapse {
+    background-color: #0d83dd;
+    color: #FFFFFF;
+}
+
+ul.white_text{
+    color: #FFFFFF
+}
+
 .jumbotron {
   padding: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #F0E4C2;
+  background-color: #3fa9f5;
 }
-/*.jumbotron h1,*/
+.jumbotron h1,
 .jumbotron .h1 {
-  color: inherit;
+  color: #FFFFFF;
 }
 .jumbotron p {
     margin-bottom: 15px;
     font-size: 21px;
     font-weight: 200;
-    color: #ffffff;
+    color: #FFFFFF;
 }
 
 #intro {
-    background:#FFFFB9 ;
-    border-radius:20px;
+    background:#caeaff;
+    border-radius:10px;
 }
 
 .detail_button{
@@ -30,7 +43,6 @@
 
 .detail_button_2 {
     float: left;
-    margin-left: center;
     padding-top: 55px;
 }
 
@@ -41,21 +53,41 @@
 }
 
 #services_1 {
-    background:#FAD9D7;
+    background:#caeaff;
     padding:20px;
-    border-radius:20px;
+    border-radius:10px;
 }
 
 #social_media_1 {
-    background:#F8D5FD;
-    border-radius:20px;
+    background:#caeaff;
+    /*background:#FFFFB9;*/
+    border-radius:10px;
+    padding: 20px;
 }
 
 #people_1 {
-    background:#CDF7FA;
+    background:#caeaff;
     padding: 20px;
-    border-radius:20px;
+    border-radius:10px;
 }
+
+#people_2 {
+    position: relative;
+    left: 300px;
+    top: -250px;
+}
+
+#company_1 {
+    background:#caeaff;
+    padding:20px;
+    border-radius: 10px;
+}
+
+#contact_1 {
+    background:#caeaff;
+    border-radius: 10px;
+}
+
 
 /*space*/
 

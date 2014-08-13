@@ -41,7 +41,7 @@
 <body id=home data-spy="scroll" data-target="#o3rocket-navbar">
 <div id="o3rocket-navbar">
   <nav class="navbar navbar-inverse navbar-fixed-top">
-    <div class="container-fluid">
+    <div class="container-fluid" id="blue_header">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse"
                 data-target="#o3rocket-navbar-collapse">
@@ -50,10 +50,10 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="#home">o3 Rocket Communications</a>
+        <a class="navbar-brand" href="#home" id="o3rocket-navbar-collapse">o3 Rocket Communications</a>
       </div>
 
-      <div class="navbar-collapse collapse" id="o3rocket-navbar-collapse">
+      <div class="navbar-collapse collapse">
         <ul id="top-nav" class="nav navbar-nav">
           <li><a href="/index.html#home">Home</a></li>
           <li><a href="/index.html#services">Services</a></li>
@@ -61,16 +61,7 @@
           <li><a href="/index.html#company">Company</a></li>
           <li><a href="/blog">Blog</a></li>
 
-          <!--           <li class="dropdown"> -->
-          <!--             <a href="#company" class="dropdown-toggle" data-toggle="dropdown"> -->
-          <!--                   Company -->
-          <!--                   <b class="caret"></b> -->
-          <!--             </a> -->
-          <!--             <ul class="dropdown-menu"> -->
-          <!--               <li><a href="#contact">Contact</a></li> -->
-          <!--               <li><a href="#name">Meaning of Kunalo</a></li> -->
-          <!--   </ul> -->
-          <!-- </li><\!-- dropdown -\-> -->
+
         </ul>
         <!-- /.nav -->
 
@@ -82,7 +73,7 @@
 </div>
 
 
-<div class="container">
+<div class="container-fluid">
     <div class="jumbotron">
         <h1>Silicon Valley Tech B2B Marketing</h1>
         <div class="carousel-inner">
@@ -113,7 +104,7 @@
       <li>Product and company launches, media relations.</li>
     </ul>
         <span class="detail_button">
-    <p><a class="btn btn-warning" href="#services">View details &raquo;</a></p>
+    <p><a class="btn btn-info" href="#services">View details &raquo;</a></p>
         </span>
   </div>
   <div class="col-xs-6 col-sm-4">
@@ -123,7 +114,7 @@
 partner of a well-known social media firm.  Experience working with 100+ startups in Silicon Valley as well as
 global B2B technology brands, including many of the biggest names in the Valley.</p>
         <span class="detail_button_2">
-    <p><a class="btn btn-warning" href="#people">View details &raquo;</a></p>
+    <p><a class="btn btn-info" href="#people">View details &raquo;</a></p>
         </span>
   </div>
   <div class="col-xs-6 col-sm-4">
@@ -131,7 +122,7 @@ global B2B technology brands, including many of the biggest names in the Valley.
 
     <p>Boutique consulting firm in Palo Alto specializing in ongoing public relations and social media campaigns on retainer.  We emphasize metric analysis as part of the campaigns and look at web analytics, social media metrics, and funnel conversion. </p>
         <span class="detail_button_3">
-    <p><a class="btn btn-warning" href="#company">View details &raquo;</a></p>
+    <p><a class="btn btn-info" href="#company">View details &raquo;</a></p>
         </span>
   </div>
 </div>
@@ -143,7 +134,7 @@ global B2B technology brands, including many of the biggest names in the Valley.
 <hr id="services">
 
 <!--    BEGIN SERVICES SECTION     -->
-    <div id="services_1">
+    <div  id="services_1">
 <div class="row spacer">
 
   <div class="col-sm-12">
@@ -184,12 +175,15 @@ global B2B technology brands, including many of the biggest names in the Valley.
     </p>
   </div>
 </div>
+        </div>
 
+<div id="services_1">
 <br>
 
-<h3 class="spacer" id="public_relations">Public Relations for Tech Companies</h3>
+<h3 class="spacer">Public Relations for Tech Companies</h3>
+</div>
 
-<div class="table-responsive">
+<div class="table-responsive" id="services_1">
   <table class="table">
     <tbody>
     <tr>
@@ -221,12 +215,12 @@ global B2B technology brands, including many of the biggest names in the Valley.
   </table>
 </div>
 
-<h3 class="spacer" id="developer_relations">
+<h3 class="spacer" id="services_1">
  Community Relations Activities
 </h3>
-<h4>Content production, process analysis, engagement, meetups</h4>
+<h4 id="services_1">Content production, process analysis, engagement, meetups</h4>
 
-<div class="table-responsive">
+<div class="table-responsive" id="services_1">
   <table class="table">
     <tbody>
     <tr>
@@ -279,7 +273,7 @@ global B2B technology brands, including many of the biggest names in the Valley.
     </tbody>
   </table>
 </div>
-              </div>
+              <!--</div>-->
 <br>
 
 
@@ -351,11 +345,12 @@ global B2B technology brands, including many of the biggest names in the Valley.
 <img border="0" src = "img/craig_head_blue.png">
 <br>
 <br>
-    <p>
+
+    <h4 id="people_2">
       Previous experience
-</p>
+</h4
 <p>
-<ul>
+<ul id="people_2">
 <li> SVP Emerging Brands, LEWIS PR</li>
 <li> managing partner, LEWIS Pulse (social media)</li>
 <li> president of first ISP/Internet community in Japan. Sold for 5x ROI for investors.</li>
@@ -379,14 +374,15 @@ global B2B technology brands, including many of the biggest names in the Valley.
 <br>
 
 <!-- BEGIN COMPANY SECTION -->
+
 <hr id="company">
-<div class="row spacer">
+<div class="row spacer" id="company_1">
   <div class="col-sm-12">
     <h2 class="text-center">Company</h2>
   </div>
 </div>
 
-<div class="row">
+<div class="row" id="company_1">
   <div class="col-sm-8">
     <h3 id="o3rocket">What Does o3 Rocket Mean?</h3>
 
@@ -420,7 +416,7 @@ reporters loved it.  As a way of saying thanks, he shipped us a box of rockets.
 
 </div>
 <div id="contact" class="row">
-  <div class="col-sm-4">
+  <div class="col-sm-4" id="contact_1">
     <h3>Contact</h3><br>
     <address>
       <ul class="list-unstyled">

@@ -47,3 +47,8 @@ JB :
   tags_path : /blog/tags.html
   atom_path : /blog/atom.xml
   rss_path : /blog/rss.xml
+
+  analytics :
+    provider : google
+    google :
+      tracking_id : 'UA-53861908-1'

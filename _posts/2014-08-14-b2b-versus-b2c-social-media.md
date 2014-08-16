@@ -25,4 +25,4 @@ Here are some charts from The Social Media Examiner poll of 2,800 marketers.
 
 ![B2C Social Media Chart](/img/blog/2014/08/b2c_channel_focus.png)
 
-This helps with an allocation of time resources.  In the future, we'll discuss LinkedIn ads, LinkedIn Page and LinkedIn groups.
+This helps with an allocation of time resources.  In the future, we'll discuss LinkedIn ads, LinkedIn Pages and LinkedIn groups.

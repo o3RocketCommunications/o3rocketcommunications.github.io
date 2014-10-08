@@ -1,5 +1,4 @@
 
-
 #blue_header {
     background-color: #015CBE;
 }
@@ -36,6 +35,23 @@ ul.white_text{
 /*    background:#caeaff; */
     background: #FFFFFF
     border-radius:10px;
+}
+
+
+
+.button_image{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button_description{
+    text-align: center;
+}
+
+.detail_generic{
+    text-align: center;
+    
 }
 
 .detail_button{

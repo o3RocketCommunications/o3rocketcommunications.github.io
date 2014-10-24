@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!--FONTSFONTS FONTS FONTS-->
+  <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+
+  <meta charset="utf-8">
+  <title>o3 Rocket Communications, Public Relations, Social Media in Silicon Valley</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="o3 Rocket Communications, Public Relations, Social Media">
+
+  <!-- Le styles -->
+  <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+  <link href="bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet">
+  <link href="css/o3rocket.css" rel="stylesheet">
+  <style type="text/css">
+    body {
+      padding-top: 60px;
+      padding-bottom: 40px;
+    }
+  </style>
+  <script type="text/javascript" src="//use.typekit.net/ryj5haj.js"></script>
+  <script type="text/javascript">try {
+    Typekit.load();
+  } catch (e) {
+  }</script>
+
+    <!--Google tracking info-->
+
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53861908-1', 'auto');
+  ga('send', 'pageview');
+
+    </script>
+
+</head>
+
+<body id=home data-spy="scroll" data-target="#o3rocket-navbar">
+<div id="o3rocket-navbar">
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container-fluid" id="blue_header">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse"
+                data-target="#o3rocket-navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/" id="o3rocket-navbar-collapse">o3 Rocket Communications</a>
+      </div>
+
+      <div class="navbar-collapse collapse">
+        <ul id="top-nav" class="nav navbar-nav">
+          <li><a href="/">Home</a></li>
+          <li><a href="#services_1">PR</a></li>
+          <li><a href="#social_media_1">social media</a></li>
+          <li><a href="/blog">Blog</a></li>
+
+
+        </ul>
+        <!-- /.nav -->
+
+      </div>
+      <!--/.nav-collapse -->
+    </div>
+  </nav>
+  <!-- /.navbar -->
+</div>
+
+<h3 class="spacer">Public Relations for Tech Companies</h3>
+
+
+<div class="table-responsive" id="services_1">
+  <table class="table">
+    <tbody>
+    <tr>
+      <th class="col-sm-3"> Activity</th>
+      <th class="col-sm-4"> Process</th>
+      <th class="col-sm-4"> Deliverable</th>
+    </tr>
+    <tr>
+      <td> Story development</td>
+      <td> Brainstorm with stakeholders. Analyze media trends. Research industry analysts.</td>
+      <td> Story descriptions that attract attention of key media, bloggers, and analysts.</td>
+    </tr>
+    <tr>
+      <td> Media relations</td>
+      <td> Identify key reporters and bloggers. Develop specific messages for each reporter.</td>
+      <td> Unique stories.</td>
+    </tr>
+    <tr>
+      <td> Analyst relations</td>
+      <td> Track key analysts in market. Review reports and media commentary.</td>
+      <td> Analyst briefings. Inclusion in analyst reports.</td>
+    </tr>
+    <tr>
+      <td> Speaking</td>
+      <td> Track speakers and speaking opportunities. Write summary of talk. Propose to organizers.</td>
+      <td> Lists of relevant speakers and shows. Speaking proposals. Speaking slots if accepted.</td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+
+    <h3>Social Media</h3>
+    <div id="social_media_1">
+
+<div id="social_media" class="row spacer">
+  <div class="col-sm-12">
+
+
+    <p>
+    <ul>
+      <li>Twitter channel management</li>
+      <ul>
+        <li>content production (text, picture, video)</li>
+        <li>engagement (@reply, #hashtag, other)</li>
+        <li>list management</li>
+        <li>advertisement management (if applicable)</li>
+        <li>creation (if needed)</li>
+        <li>promotion</li>
+        <li>analysis and reporting</li>
+      </ul>
+    </ul>
+    </p>
+    <p>
+    <ul>
+      <li>Facebook page management</li>
+      <ul>
+        <li>content production (text, picture, video)</li>
+        <li>engagement and question escalation</li>
+        <li>promotion</li>
+        <li>analysis and reporting</li>
+      </ul>
+    </ul>
+    </p>
+  </div>
+</div>
+
+        </div>
+
+
+<footer>
+  <p>By the o3 Rocket casual web team</p>
+</footer>
+
+</div>
+<!-- /container -->
+
+<!-- Le javascript
+================================================== -->
+<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="bower_components/jquery/dist/jquery.min.js"><\/script>')</script>
+<!-- Bootstrap jQuery plugins compiled and minified -->
+<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script>
+  $(document).ready(function () {
+    $('.carousel').carousel({
+      interval: 4000
+    });
+  });
+</script>
+<script src="bower_components/jquery.smooth-scroll/jquery.smooth-scroll.min.js"></script>
+<script type="text/javascript">// <![CDATA[
+$('a').smoothScroll({
+  speed: 400,
+  excludeWithin: ['.carousel']
+});
+// ]]></script>
+
+</body>
+</html>

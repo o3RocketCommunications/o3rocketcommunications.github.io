@@ -25,7 +25,7 @@ referral traffic back to the website, it manages to to drive measurable user-to-
 of Twitter.  It feels that this engagement within the Twitter space should translate into engagement
 with the website at some point.
 
-here are some tips that caught my attention:
+Here are some tips that caught my attention:
 
 1. Tweets <100 characters get more engagement.  If you use the entire 140 character space, it becomes
 more difficult to pass the Tweet on.
@@ -38,6 +38,12 @@ In order to use pictures more effectively, I've been using free photo editing so
 Gimp almost every day.  Gimp is similar to Photoshop.  I started to use Gimp regularly as part of my hobby 
 to build mobile games. I also started to use corporate font packs and color palettes.  Fortunately,
 my hobby with mobile development also gives me some comfort with fonts and rgb colors.
+
+Currently, the profile of Twitter marketer is a person, usually young, that is strong is text.
+This makes it a natural transition for PR people to take up social media marketing, Twitter
+often being the easiest.  However, with the effectiveness of pictures and short videos over
+text, the skillset now requires more visual and graphic skills.
+
 
 [1]: http://www.o3rocket.com/2014/08/15/b2b-versus-b2c-social-media.html
 

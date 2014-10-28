@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Overview of Twitter TweetSmarter Tips
+title: Will Starving Photographers Become Well-Paid Twitter Marketers?
 date: 2014-10-28
 comments: false
 author: Craig Oda
@@ -39,12 +39,17 @@ Gimp almost every day.  Gimp is similar to Photoshop.  I started to use Gimp reg
 to build mobile games. I also started to use corporate font packs and color palettes.  Fortunately,
 my hobby with mobile development also gives me some comfort with fonts and rgb colors.
 
+I'm also getting tips from digital photographers.  On Sunday I went down to the [Harmony II
+Exhibit][2] in Palo Alto to talk to my friend Robert Read who is a hobbyist photographer in 
+addition to a software developer.
+
 Currently, the profile of Twitter marketer is a person, usually young, that is strong is text.
 This makes it a natural transition for PR people to take up social media marketing, Twitter
 often being the easiest.  However, with the effectiveness of pictures and short videos over
-text, the skillset now requires more visual and graphic skills.
+text, the effective Twitter marketer now requires more visual and graphic skills.
 
 
 [1]: http://www.o3rocket.com/2014/08/15/b2b-versus-b2c-social-media.html
+[2]: http://kspphoto.wordpress.com/2014/10/19/harmony-ii-2014-exhibit-at-peking-duck-restaurant-2/
 
 [referral]: http://www.o3rocket.com/2014/08/18/social-referral-sources.html

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Overview of Twitter #TweetSmarter Tips
+title: Overview of Twitter TweetSmarter Tips
 date: 2014-10-28
 comments: false
 author: Craig Oda

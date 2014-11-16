@@ -72,7 +72,8 @@ or product launch, your news funnel dries up.  You'll scramble to
 get mentions, not feature placement.  
 
 The third problem is perhaps the biggest problem.  Who reads the New York
-Times?  The NY Times has 760,000 digital subscribers.  How many
+Times?  According to their rather dark and gloomy [New York Times Innovation Report][report], 
+the NY Times has 760,000 digital subscribers.  How many
 of them are in New York?  How much weight does the brand have now days?
 
 
@@ -161,3 +162,4 @@ your content displayed.
 
 [teicher]: http://contently.com/strategist/2014/04/10/the-pros-cons-and-costs-of-the-top-10-content-distribution-platforms/
 
+[report]: https://www.scribd.com/doc/224608514/The-Full-New-York-Times-Innovation-Report

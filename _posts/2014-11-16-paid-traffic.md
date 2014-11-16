@@ -34,7 +34,15 @@ There are many techniques to drive traffic:
 - engagement with key influencers on social and directly;
 - use media placements (PR)to drive traffic to content;
 - connect content to events, partners;
-- advertisements.
+- advertisements;
+- SEO;
+- audience optimization (choosing messages that resonate with
+target audience).
+
+The difference between SEO and audience optimization is that 
+ SEO deals with keywords while audience optimizations deals with
+offering something to the audience that they will learn if they
+read the content.
 
 Within advertisements, there are many options.  As the results are
 easily measureable, it's good to experiment with a half-dozen 

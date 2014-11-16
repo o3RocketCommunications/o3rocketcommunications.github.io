@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Will Starving Photographers Become Well-Paid Twitter Marketers?
+title: Why Are Photographers are Important to Twitter Marketers?
 date: 2014-10-28
 comments: false
 author: Craig Oda

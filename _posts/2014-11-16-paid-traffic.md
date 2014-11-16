@@ -15,16 +15,26 @@ Comparing promoted Tweets and Facebook posts to other advertising options to pro
 
 ---
 
+As marketers balance budgets across social media, PR, advertising, and direct email lead-generation
+campaigns, they're allocating more money to produce high-quality content such as 
+whitepapers, survey reports, infographics, and blogs across a range of awareness and lead-generation
+campaigns.  To get more people to view the
+content, companies are turning to advertising.  In many cases, the advertising products
+they are buying are different from traditional
+advertisements used in lead generation campaigns.
+
 Here's a summary of data that Jordan Teicher pulled together for his
-[blog][teicher] on Contently.
+[blog][teicher] on Contently.  It gives a good overview of the
+common platforms that people use to increase views to content
+such as a blog or infographic.
 
 ![Costs of Content Marketing](/img/blog/2014/11/content_marketing.png)
 
 
-There are many techniques to drive traffic:
+There are many techniques to drive traffic to corporate content:
 
+- Public relations (PR). Use media placements to drive traffic to content;
 - engagement with key influencers on social and directly;
-- use media placements (PR)to drive traffic to content;
 - connect content to events, partners;
 - advertisements;
 - SEO;

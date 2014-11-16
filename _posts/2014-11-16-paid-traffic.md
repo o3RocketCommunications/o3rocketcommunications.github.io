@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Increasing Blog, Whitepaper, Infographic Traffic With Ads
+title: Using Ads to Increase Traffic to Corporate Content
 date: 2014-11-16
 comments: false
 author: Craig Oda
@@ -8,7 +8,7 @@ tags:
   - social media, ads
 ---
 <img src = "/img/blog/header/marketer.jpg" height = "50" hspace="3" align="left">
-Comparing promoted Tweets and Facebook posts to other advertising options to promote blog and other self-published content.
+Comparing promoted Tweets and Facebook posts to other advertising options to promote blogs, whitepapers, infographics and other self-published content.
 
 {{ excerpt_separator}}
 

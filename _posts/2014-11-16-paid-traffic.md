@@ -147,5 +147,17 @@ such as clicking on the link.
 CPM = Cost per thousand impressions.  You pay to get a link to 
 your content displayed.
 
+---
+
+###Additional Information
+
+- [GrapeStory][1]
+- [IZEA][2]
+- [TapInfluence][3]
+
+[1]: http://www.grapestory.co/
+[2]: https://izea.com/
+[3]: http://www.tapinfluence.com/
+
 [teicher]: http://contently.com/strategist/2014/04/10/the-pros-cons-and-costs-of-the-top-10-content-distribution-platforms/
 

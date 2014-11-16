@@ -80,8 +80,16 @@ of them are in New York?  How much weight does the brand have now days?
 ![New York Times homepage traffic](/img/blog/2014/11/nytimes_homepage.png)
 
 According to the New York Times, their homepage traffic is dropping
-quickly.  Although dropping, the value of the New York Times 
-brand is still huge.
+quickly and even their iPad app is losing subscribers.  
+This is just one example of how a publication is losing in value.
+The question is whether people are getting the information from other sources
+like Huffington Post and USA Today or if they are getting information from their
+peers or directly from the companies producing products and services.
+
+They're getting information from a growing number of sources.  The
+diversification of sources creates a management problem.  How do you track 30
+marketing campaigns if you just have two people in marketing?
+
 
 ###Why best-in-class marketing consultants need help
 
@@ -133,12 +141,21 @@ offering something to the audience that they will learn if they
 read the content.  It was so great to get two different perspectives
 back to back.
 
+###Process framework of test and measurement
+
 Like SEO and audience optimization, advertising results are
 easily measureable.  It's good to experiment with a half-dozen 
 options to balance the cost of the ad versus the effectiveness
 of the ad.
 
-Please let me what your experience has been.
+This process of measurement and adjustment is solution to how to handle 
+the deluge of marketing tasks.  The real problem that is emerging is
+deciding what to measure.  The wealth of data is causing marketers
+to rethink campaigns.  We're faced with a fresh, new frontier and it's 
+exciting to be a part of it.
+
+
+
 
 ---
 

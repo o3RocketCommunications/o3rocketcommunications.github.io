@@ -30,6 +30,9 @@ such as a blog or infographic.
 
 ![Costs of Content Marketing](/img/blog/2014/11/content_marketing.png)
 
+In order to decide how much money to spend on advertising for corporate
+content, you need to understand what else you could spend money on.  Sure,
+advertising will work, but is it the cheapest way to get traffic?
 
 There are many techniques to drive traffic to corporate content:
 

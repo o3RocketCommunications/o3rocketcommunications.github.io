@@ -44,19 +44,27 @@ There are many techniques to drive traffic to corporate content:
 - audience optimization (choosing messages that resonate with
 target audience).
 
+###PR works. Why not take the advertising budget and move it to PR?
+
 For many years, PR has been the most effective tool for startups to gain
-awareness.  It performs well compared to advertising for awareness,
-but is difficult to measure for lead generation.
+awareness.  I definitely rode that wave with Page One PR and benefited 
+greatly from that trend.  PR is still the core service that I offer and
+I believe in the value of a PR campaign.  
+
+Dollar for dollar, PR will out-perform advertising for awareness,
+but PR is difficult to measure for lead generation.
 
 PR works because it leverages the brand of the 
 reporter or publication to increase awareness.  For example, a placement 
 in the New York Times is going to drive awareness for the company 
 mentioned in it because the NY Times gets 30 million web readers
-every month.
+every month.  This is awesome.  
 
 ![New York Times traffic](/img/blog/2014/11/nytimes.png)
 
-This is awesome.  However, there are fundalmental programs with this
+###Why you need more than just PR
+
+However, there are fundalmental programs with this
 type of placement.  First, the general mechanism to interface with
 the media is to hire a PR firm at $12K to $20K per month.  Second,
 once you get the initial pop of a company launch, funding announcement,
@@ -74,12 +82,31 @@ According to the New York Times, their homepage traffic is dropping
 quickly.  Although dropping, the value of the New York Times 
 brand is still huge.
 
-We're in a transition time in marketing where companies are 
-experimenting with a wide range of techniques.
+###Why best-in-class marketing consultants need help
 
-As a result of changes to both PR and social media, companies are 
-moving some resources to content marketing, which has the benefit
-of being a great platform for messages.  Content marketing has the huge
+We're in a transition time in marketing where companies are 
+experimenting with a wide range of techniques.  Years ago, you just 
+needed to hire the best advertising firm.  Then, you needed to
+hire the best ad firm and another PR firm.  Over time, this
+expanded into a group of specialized boutique firms for SEO,
+social media, lead generation, content marketing 
+and digital advertising.
+
+This results in an overload of work for the VP of marketing.  It's not
+clear if they'll emerge a type of consultant that functions like a
+general contractor, similar to what we see in the construction
+business.
+
+
+###Rise of content marketing problems
+
+While I haven't come up a solution of how the VP of marketing 
+can effectively deal with multiple
+vendors yet, I do know that as a result of changes to both PR and 
+social media, companies are 
+moving some resources to content marketing.  Content marketing
+has the benefit
+of being a great platform for messages, but it has the huge
 disadvantage of not having a brand like the New York Times associated
 with the content.
 

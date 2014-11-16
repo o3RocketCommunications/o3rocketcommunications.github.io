@@ -5,7 +5,8 @@ date: 2014-11-16
 comments: false
 author: Craig Oda
 tags:
-  - social media, ads
+  - social media 
+  - advertising
 ---
 <img src = "/img/blog/header/marketer.jpg" height = "50" hspace="3" align="left">
 Comparing promoted Tweets and Facebook posts to other advertising options to promote blogs, whitepapers, infographics and other self-published content.

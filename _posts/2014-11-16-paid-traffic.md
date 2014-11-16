@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Increasing Blog Traffic With Ads
+title: Increasing Blog, Whitepaper, Infographic Traffic With Ads
 date: 2014-11-16
 comments: false
 author: Craig Oda
@@ -42,6 +42,14 @@ options to balance the cost of the ad versus the effectiveness
 of the ad.
 
 Please let me what your experience has been.
+
+---
+
+CPC = Cost per Click.  You only pay when the user takes a specific action
+such as clicking on the link.
+
+CPM = Cost per thousand impressions.  You pay to get a link to 
+your content displayed.
 
 [teicher]: http://contently.com/strategist/2014/04/10/the-pros-cons-and-costs-of-the-top-10-content-distribution-platforms/
 
